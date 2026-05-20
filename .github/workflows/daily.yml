@@ -24,4 +24,5 @@ jobs:
           RUBIKA_TOKEN: ${{ secrets.RUBIKA_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python bot.py
+
         
